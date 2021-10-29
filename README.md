@@ -118,7 +118,7 @@
 
 ## 📚 Sites para aprender a programar jogando
 
-🔖 [Code Combat](https://br.codecombat.com) - Site  para aprender conceitos e linguagens de programação enquanto joga <br>
+🔖 [Code Combat](https://br.codecombat.com) - Site para aprender conceitos e linguagens de programação enquanto joga <br>
 🔖 [CheckiO](https://checkio.org) - CheckiO é um site que tem como objetivo ensinar programação, mas todos os desafios de codificação devem ser concluídos em Python. <br>
 🔖 [CodeWars](https://www.codewars.com/) - Desafios de Programação Back-end. IDE integrada <br>
 🔖 [Schemaverse](https://schemaverse.com) - O Schemaverse é um jogo de estratégia baseado no espaço implementado inteiramente em um banco de dados PostgreSQL. <br>
@@ -150,7 +150,7 @@
 🔖 [Fancy Border-Radius](https://9elements.github.io/fancy-border-radius/) - Gerador de formas com border-radius no CSS <br>
 🔖 [WAIT! Animate](https://waitanimate.wstone.io) - Gerador de animações de CSS <br>
 🔖 [Best CSS Button Generator](https://www.bestcssbuttongenerator.com) - Gerador de butões do CSS <br>
-🔖 [HTML CSS JS Generator](https://html-css-js.com/css/generator/) - Gerador de HTML/CSS/JS  <br>
+🔖 [HTML CSS JS Generator](https://html-css-js.com/css/generator/) - Gerador de HTML/CSS/JS <br>
 🔖 [BennettFeely](https://bennettfeely.com/clippy/) - Criador de clip-path <br>
 
 ## 📚 Sites para buscar vagas remotas
@@ -172,11 +172,11 @@
 🔖 [Dev Hints](https://devhints.io) - Coleção de cheatsheets <br>
 🔖 [Bundlephobia](https://bundlephobia.com) - Descubra o custo de adicionar um pacote npm ao seu pacote <br>
 🔖 [Refactoring Guru](https://refactoring.guru/pt-br/design-patterns) - Padrões de projetos "Design patterns" <br>
-🔖 [DevDocs](https://devdocs.io/) - DevDocs combina várias documentações de API em uma interface rápida, organizada e pesquisável.  <br>
+🔖 [DevDocs](https://devdocs.io/) - DevDocs combina várias documentações de API em uma interface rápida, organizada e pesquisável. <br>
 🔖 [HTML Validator](https://www.freeformatter.com/html-validator.html) - Validação de arquivo HTML <br>
 🔖 [HTML 5 Test](https://html5test.com/index.html) - Testa arquivos HTML5 <br>
 🔖 [Image Slide Maker](https://imageslidermaker.com/v2) - Ferramenta de geração gratuita do Image Slider Maker <br>
-🔖 [.NET Fiddle](https://dotnetfiddle.net/) - Codifique e compartilhe projetos C# online <br> 
+🔖 [.NET Fiddle](https://dotnetfiddle.net/) - Codifique e compartilhe projetos C# online <br>
 🔖 [1PageRank](http://www.1pagerank.com/) - Rankeie seu site nos mecanismos de buscas e aprenda com a concorrência <br>
 🔖 [Any API](https://any-api.com/) - Diretório gratuito com APIs públicas <br>
 🔖 [Autoprefixer CSS](http://autoprefixer.github.io/) - Transpile código CSS atual para código CSS com maior cobertura de navegadores antigos <br>
@@ -195,7 +195,7 @@
 🔖 [docsify](https://docsify.js.org/#/) - Crie docs incríveis de projetos <br>
 🔖 [EasyForms](https://easyforms.vercel.app/) - API open source que permite criação formulários de contato com HTML puro <br>
 🔖 [Editor.md](https://pandao.github.io/editor.md/en.html) - Editor Markdown online e open source <br>
-🔖 [ES6console](https://es6console.com/) - Compilador de JS para Ecmascript <br> 
+🔖 [ES6console](https://es6console.com/) - Compilador de JS para Ecmascript <br>
 🔖 [Firebase](https://firebase.google.com/?hl=pt-BR) - Desenvolva aplicativos mobile e web incríveis este serviço da Google <br>
 🔖 [Firefox Developer Edition](https://www.mozilla.org/pt-BR/firefox/developer/) - Navegador web para desenvolvedores web <br>
 🔖 [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=pt-BR) - Capture páginas inteiras com uma extensão para Chrome <br>
@@ -242,6 +242,22 @@
 🔖 [Wedsites](https://wedsites.com/) - Liste suas atividades e acompanhe seu progresso <br>
 🔖 [WordPress](https://wordpress.org/) - Criação de blogs <br>
 🔖 [XML Sitemaps](https://www.xml-sitemaps.com/) - Criador de sitemaps.xml <br>
+
+## 📚 Gerenciador de Dependências
+
+🔖 [CPAN](https://www.cpan.org/) - Para aplicações Pear <br>
+🔖 [Composer](https://getcomposer.org/) - Para aplicações PHP <br>
+🔖 [Gradle](https://gradle.org/) - Para aplicações Java, Groovy, Kotlin, Android, Scala e JavaScript <br>
+🔖 [HashLoad/boss](https://github.com/HashLoad/boss/) - Para aplicações Delphi/Pascal <br>
+🔖 [Hex](https://hex.pm/) - Para aplicações Erlang <br>
+🔖 [Maven](https://maven.apache.org/) - Para aplicações Java e Kotlin <br>
+🔖 [NPM](https://www.npmjs.com/) - Para aplicações web o JavaScript <br>
+🔖 [Mix](https://hexdocs.pm/mix/Mix.html) - Para aplicações Elixir <br>
+🔖 [NuGet](https://www.nuget.org/) - Para aplicações .NET <br>
+🔖 [PEAR Installer](https://pear.php.net/) - Para aplicações PHP <br>
+🔖 [Pip](https://pypi.org/project/pip/) - Para aplicações Python <br>
+🔖 [Rubygem](https://rubygems.org/) - Para aplicações Ruby <br>
+🔖 [Yarn](https://yarnpkg.com/) - Para aplicações web o JavaScript <br>
 
 ## 📚 Gerenciamento de projetos
 
@@ -345,6 +361,7 @@
 🔖 [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/) - Linguagem de programação baseada no C++ <br>
 🔖 [Clojure](https://clojure.org/) - Linguagem de programação funcional (muito utilizada para IAs) <br>
 🔖 [Dart](https://dart.dev/) - Linguagem de script voltada à web desenvolvida pela Google, utilizada no Flutter <br>
+🔖 [Delphi](https://www.embarcadero.com/br/products/delphi/starter/) - Linguagem de programação Corporation, estruturada e orientada à objetos <br>
 🔖 [Elixir](https://elixir-lang.org/) - Linguagem de programação funcional executada na máquina virutal Erlang <br>
 🔖 [F#](https://docs.microsoft.com/pt-br/dotnet/fsharp/) - Linguagem de programação orientada a objetos e funcional <br>
 🔖 [Fortran](https://www.fortran90.org/) - Linguagem de programação desenvolvida pela IBM, usado na ciência da computação e análises numéricas <br>
@@ -355,7 +372,7 @@
 🔖 [Julia](https://julialang.org/) - Linguagem de programação de código aberto e alto desempenho para computação técnica <br>
 🔖 [Kotlin](https://kotlinlang.org/) - Linguagem de programação multiplataforma, orientada a objetos compila para a MVJ <br>
 🔖 [Lua](https://www.lua.org/portugues.html) - Linguagem de programação desenvolvida no Brasil, permite programação procedural e POO <br>
-🔖 [MatLab](https://www.mathworks.com/help/matlab/) -Linguagem de programação de alto nível com foco em cálculos  e construção de gráficos <br>
+🔖 [MatLab](https://www.mathworks.com/help/matlab/) -Linguagem de programação de alto nível com foco em cálculos e construção de gráficos <br>
 🔖 [Pascal](https://docs.freepascal.org/) - Linguagem de programação imperativa, estruturada e orientada à objetos <br>
 🔖 [Perl](https://www.perl.org/) - Linguagem de programação multiplataforma e dinâmica <br>
 🔖 [PHP](https://www.php.net/) - A linguagem de programação dominante na web <br>
@@ -376,7 +393,7 @@
 🔖 [Google - Python](https://google.github.io/styleguide/pyguide.html) - Guia de estilo de código em Python do Google <br>
 🔖 [Google - Java](https://google.github.io/styleguide/javaguide.html) - Guia de estilo de código em Java do Google <br>
 
-##  📚 Desafios
+## 📚 Desafios
 
 🔖 [Ace Front End](https://www.acefrontend.com/) - Desafios de programação Front-end. Resultados via texto. IDE integrada <br>
 🔖 [AdventoOfCode](https://adventofcode.com/) - Desafios de programação por temporada. Sem IDE integrada. Validação manual feita pelo usuário <br>
@@ -417,6 +434,24 @@
 🔖 [Hamburgers](https://jonsuh.com/hamburgers/) <br>
 🔖 [Hover Effects](https://ianlunn.github.io/Hover/) <br>
 
+## 📚 Ferramentas para construtor próprio de API´s
+
+🔖 [HashLoad/Horse](https://github.com/HashLoad/horse) Para aplicações Delphi/Pascal <br>
+🔖 [Spring Framework](https://spring.io/) <br>
+🔖 [Express.js](https://expressjs.com/pt-br/) <br>
+
+## 📚 Ferramentas para Teste de API´s
+
+🔖 [Apigee](https://apigee.com/api-management/) <br>
+🔖 [Assertible](https://assertible.com/) <br>
+🔖 [Insomnia](https://insomnia.rest/) <br>
+🔖 [JMeter](https://jmeter.apache.org/) <br>
+🔖 [Karate DSL](https://github.com/intuit/karate) <br>
+🔖 [Katalon Studio](https://www.katalon.com/) <br>
+🔖 [Postman](https://www.getpostman.com/) <br>
+🔖 [SoapUI](https://www.soapui.org/) <br>
+🔖 [Tricentis Tosca](https://www.tricentis.com/software-testing-tools/) <br>
+
 ## 📚 Ferramentas para buscar projetos open source
 
 🔖 [Up for Grabs](http://up-for-grabs.net/) <br>
@@ -428,17 +463,17 @@
 
 ## 📚 Melhores distros linux para programadores
 
-🔖 [Pop!\_Os](https://pop.system76.com/)   - Distribuição Linux Pop!\_Os <br>
-🔖 [Arch Linux](https://archlinux.org/)   - Distribuição Linux Arch Linux <br>
-🔖 [Debian](https://www.debian.org/)   - Distribuição Linux Debian <br>
-🔖 [Ubuntu](https://ubuntu.com/)   - Distribuição Linux Ubuntu <br>
-🔖 [Fedora](https://getfedora.org/pt_BR/)   - Distribuição Linux Fedora <br>
-🔖 [Linux Mint](https://linuxmint.com/)   - Distribuição Linux Mint <br>
-🔖 [OpenSUSE](https://www.opensuse.org)   - Distribuição Linux OpenSUSE<br>
-🔖 [Kali Linux](https://www.kali.org)   - Distribuição Linux Kali Linux<br>
-🔖 [KDE Neon](https://www.neon.kde.org)   - Distribuição Linux KDE Neon <br>
-🔖 [Solus](https://www.getsol.us)   - Distribuição Linux Solus <br>
-🔖 [Tails](https://www.tails.boum.org)   - Distribuição Linux Tails <br>
+🔖 [Pop!\_Os](https://pop.system76.com/) - Distribuição Linux Pop!\_Os <br>
+🔖 [Arch Linux](https://archlinux.org/) - Distribuição Linux Arch Linux <br>
+🔖 [Debian](https://www.debian.org/) - Distribuição Linux Debian <br>
+🔖 [Ubuntu](https://ubuntu.com/) - Distribuição Linux Ubuntu <br>
+🔖 [Fedora](https://getfedora.org/pt_BR/) - Distribuição Linux Fedora <br>
+🔖 [Linux Mint](https://linuxmint.com/) - Distribuição Linux Mint <br>
+🔖 [OpenSUSE](https://www.opensuse.org) - Distribuição Linux OpenSUSE<br>
+🔖 [Kali Linux](https://www.kali.org) - Distribuição Linux Kali Linux<br>
+🔖 [KDE Neon](https://www.neon.kde.org) - Distribuição Linux KDE Neon <br>
+🔖 [Solus](https://www.getsol.us) - Distribuição Linux Solus <br>
+🔖 [Tails](https://www.tails.boum.org) - Distribuição Linux Tails <br>
 
 ## 📚 Bibliotecas JavaScript
 
@@ -452,14 +487,14 @@
 
 ## 📚 7 Ferramentas que todo DEV precisa conhecer
 
-🔖 [Figma](https://www.figma.com)  - ferramenta para design de interfaces. <br>
-🔖 [Insomnia](https://insomnia.rest)  - é um API Client, uma ferramenta para fazer testes de API's. <br>
-🔖 [Rive](https://rive.app)  - ferramenta colaborativa de animação para apps, jogos e sites. <br>
-🔖 [CloudCraft](https://www.cloudcraft.co)  - plataforma com foco em criar desenhos de arquiteturas AWS. <br>
-🔖 [BundlePhobia](https://bundlephobia.com)  - site para descobrir o custo de adicionar um npm package no seu pacote. <br>
-🔖 [Font Flipper](https://fontflipper.com)  - Tinder das fontes, basta apertar X caso não goste e ❤ se você gostar, adicione aos favoritos já com o nome da fonte e faça o download pelo Google fonts. <br>
-🔖 [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug)  - é uma extensão de Chrome, criada pelo google, ferramenta de design que te permite mudar o layout das páginas da web desde o estilo de fontes até a posição dos elementos. <br>
-🔖 [ThunderClient](https://www.thunderclient.io)  - é um Rest API Client totalmente leve e compatível com Visual Studio Code. Idêntico ao Postman, ele serve para realizar testes com nossas requisções HTTP. <br>
+🔖 [Figma](https://www.figma.com) - ferramenta para design de interfaces. <br>
+🔖 [Insomnia](https://insomnia.rest) - é um API Client, uma ferramenta para fazer testes de API's. <br>
+🔖 [Rive](https://rive.app) - ferramenta colaborativa de animação para apps, jogos e sites. <br>
+🔖 [CloudCraft](https://www.cloudcraft.co) - plataforma com foco em criar desenhos de arquiteturas AWS. <br>
+🔖 [BundlePhobia](https://bundlephobia.com) - site para descobrir o custo de adicionar um npm package no seu pacote. <br>
+🔖 [Font Flipper](https://fontflipper.com) - Tinder das fontes, basta apertar X caso não goste e ❤ se você gostar, adicione aos favoritos já com o nome da fonte e faça o download pelo Google fonts. <br>
+🔖 [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - é uma extensão de Chrome, criada pelo google, ferramenta de design que te permite mudar o layout das páginas da web desde o estilo de fontes até a posição dos elementos. <br>
+🔖 [ThunderClient](https://www.thunderclient.io) - é um Rest API Client totalmente leve e compatível com Visual Studio Code. Idêntico ao Postman, ele serve para realizar testes com nossas requisções HTTP. <br>
 
 ## 📚 Sites para praticar UI/UX
 
@@ -484,7 +519,7 @@
 🔖 [GoDaddy](https://br.godaddy.com/hosting/web-hosting) - Hospedagem de sites internacional <br>
 🔖 [GoDaddy](https://br.godaddy.com/) - Empresa de aluguel de servidores compartilhados, dedicados e registro de domínio <br>
 🔖 [Google Cloud](https://cloud.google.com/solutions/smb/web-hosting/) - Serviço de aluguel de servidores da Google <br>
-🔖 [Heroku](https://www.heroku.com/) -  Hospedagem de sites grátis com suporte à NodeJS, Java, Ruby, PHP, Python, Go, Scala e Clojure <br>
+🔖 [Heroku](https://www.heroku.com/) - Hospedagem de sites grátis com suporte à NodeJS, Java, Ruby, PHP, Python, Go, Scala e Clojure <br>
 🔖 [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços <br>
 🔖 [Hostinger](https://www.hostinger.com.br/) - Hospedagem de sites <br>
 🔖 [Hostoo](https://hostoo.io/) - Hospedagem de sites em cloud computing dedicado <br>
@@ -494,7 +529,7 @@
 🔖 [One.com](https://www.one.com/pt-BR/) - Serviços gerais digitais (incluindo hospedagem de sites) <br>
 🔖 [Surge](https://surge.sh/) - Hospedagem gratuita para páginas estáticas <br>
 🔖 [Umbler](https://www.umbler.com/br) - Hospedagem compartilhada, cloud computing sob taxação de uso <br>
-🔖 [Vercel](https://vercel.com/) -  Hospedagem grátis de sites estáticos e serveless <br>
+🔖 [Vercel](https://vercel.com/) - Hospedagem grátis de sites estáticos e serveless <br>
 
 ## 📚 Sites para inspirar o seu desenvolvimento
 
@@ -552,7 +587,7 @@
 🔖 [Public domain archive](https://www.publicdomainarchive.com/) - Banco de imagens gratuitas <br>
 🔖 [RemixIcon](https://remixicon.com/) - Banco de Ícones para uso gratuito <br>
 🔖 [StockSnap](https://stocksnap.io/) - Banco de imagens gratuitas (não requer atribuição) <br>
-🔖 [unDraw](https://undraw.co/) - Ilustrações livres para usar <br> 
+🔖 [unDraw](https://undraw.co/) - Ilustrações livres para usar <br>
 🔖 [Unsplash](https://unsplash.com/) - Banco de imagens gratuitas <br>
 🔖 [Visual Hunt](https://visualhunt.com/) - Banco de imagens gratuitas <br>
 🔖 [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) - Banco de imagens mundial <br>
@@ -602,13 +637,13 @@
 ## 📚 Lista de ilustrações
 
 🔖 [DrawKIT](https://www.drawkit.io/) <br>
-🔖 [Humaaans](https://www.humaaans.com/)  <br>
+🔖 [Humaaans](https://www.humaaans.com/) <br>
 🔖 [Open Doodle](https://www.opendoodles.com/) <br>
 🔖 [Storyset](https://storyset.com/) <br>
 🔖 [unDraw](https://undraw.co/) <br>
 🔖 [404 Illustrations (by kapwing)](https://www.kapwing.com/404-illustrations/) <br>
-🔖 [404 Illustrations](https://error404.fun/ ) <br>
-🔖 [Ouch](https://icons8.com.br/illustrations/)  <br>
+🔖 [404 Illustrations](https://error404.fun/) <br>
+🔖 [Ouch](https://icons8.com.br/illustrations/) <br>
 🔖 [Delesing](https://delesign.com/free-designs/graphics/) <br>
 🔖 [Pixeltru](https://www.pixeltrue.com/free-illustrations/) <br>
 🔖 [Iconscout](https://iconscout.com/) <br>
@@ -620,7 +655,7 @@
 🔖 [Feather Icons](https://feathericons.com/) <br>
 🔖 [Font Awesome](https://fontawesome.com) <br>
 🔖 [Heroicons](https://heroicons.dev/) <br>
-🔖 [Iconsvg](https://iconsvg.xyz/)  <br>
+🔖 [Iconsvg](https://iconsvg.xyz/) <br>
 🔖 [Icons8 Line Awesome](https://icons8.com/line-awesome/) <br>
 🔖 [Icons8](https://icons8.com.br/) <br>
 🔖 [Shape](https://shape.so/) <br>
@@ -670,7 +705,7 @@
 🔖 [CodAffection](https://youtube.com/c/CodAffection) - Este canal tem como objetivo ensinar e inspirar desenvolvedores a criar aplicativos <br>
 🔖 [Codedamn](https://youtube.com/c/codedamn) - Canal sobre programação e tecnologia no geral <br>
 🔖 [EspecializaTi](https://youtube.com/c/EspecializatiBr) - Canal de cursos Online de Desenvolvimento Web <br>
-🔖 [Jose Carlos Macoratti](https://youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw) - Vídeo Aulas sobre a plataforma .NET e tecnologias web: C# , VB .NET , ASP .NET , ASP .NET MVC, ASP .NET Core, Entity Framework,  Xamarin Forms, Xamarin Android, Angular, ADO .NET , SQL,  Node,  etc <br>
+🔖 [Jose Carlos Macoratti](https://youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw) - Vídeo Aulas sobre a plataforma .NET e tecnologias web: C# , VB .NET , ASP .NET , ASP .NET MVC, ASP .NET Core, Entity Framework, Xamarin Forms, Xamarin Android, Angular, ADO .NET , SQL, Node, etc <br>
 🔖 [Michelli Brito](https://youtube.com/c/MichelliBrito) - Canal sobre conteúdos de programação, arquitetura de software e carreira em TI <br>
 🔖 [The Net Ninja](https://youtube.com/c/TheNetNinja) - Habilidades de desenvolvimento web. Mais de 1000 tutoriais de programação gratuitos sobre <br>
 🔖 [Vinícius Thiengo](https://youtube.com/c/ThiengoCalopsita) - Vídeos tutoriais sobre desenvolvimento Android e técnicas de código limpo <br>
@@ -692,7 +727,7 @@
 🔖 [Protocolo Alterado](https://youtube.com/c/ProtocoloAlterado) - Conteúdos sobre Programação e Desenvolvimento Web por Beto Muniz. <br>
 🔖 [Dev Soutinho](https://youtube.com/c/DevSoutinho) - Conteúdos sobre Programação por Mario Souto <br>
 🔖 [Simplificando TI](https://www.youtube.com/channel/UCwn-9qpyukBnuA3eB-3F0Sg) - Conteúdo de TI no geral <br>
-🔖 [Vida de Programador](https://www.youtube.com/c/ProgramadorREAL) - Conteúdo sobre  tecnologia e programação <br>
+🔖 [Vida de Programador](https://www.youtube.com/c/ProgramadorREAL) - Conteúdo sobre tecnologia e programação <br>
 🔖 [ProfessorRamos](https://www.youtube.com/c/professorramos/) - Conteúdo de informática e afins <br>
 🔖 [Professor José de Assis](https://www.youtube.com/c/RoboticapraticaBr/) - Arduino com foco em robótica educacional, Programação Linguagem C, Java e desenvolvimento WEB, Linux com foco em servidores de rede <br>
 🔖 [zer01ti](https://www.youtube.com/c/zero1ti/) - Novidades da tecnológica <br>
@@ -731,11 +766,11 @@
 ## 📚 Blogs e Podcasts
 
 🔖 [DevNaEstrada](https://devnaestrada.com.br/) - Desenvolvimento web em geral <br>
-🔖 [Dicas de programação](https://dicasdeprogramacao.com.br/): Dicas para  <br>
+🔖 [Dicas de programação](https://dicasdeprogramacao.com.br/): Dicas para <br>
 🔖 [PodProgramar](https://podprogramar.com.br/) - Focado em programação, notícias e histórias da área <br>
 🔖 [Hipsters.tech](https://hipsters.tech/) - Desenvolvimento de aplicações, design digital, startups e tecnologias em geral <br>
 🔖 [LinuxTips](https://www.linuxtips.io/podcast) - Linux, DevOps, Docker e T.I <br>
-🔖 [É tudo nuve](https://www.etudonuve.com.br/i/) - Pesquisa  <br>
+🔖 [É tudo nuve](https://www.etudonuve.com.br/i/) - Pesquisa <br>
 🔖 [Dev.to](https://dev.to/) - Rede social para desenvolvedores <br>
 🔖 [Playcode](https://playcode.com.br/) - Site com algumas dicas para programação <br>
 🔖 [Codenation](https://deploy.codenation.com.br/podcasts/home) <br>
@@ -753,7 +788,7 @@
 🔖 [IT Visionaries (em inglês)](https://mission.org/itvisionaries/) - Tecnologias quentes e inovação <br>
 🔖 [Lambda3](https://www.lambda3.com.br/tag/podcast/) - Desenvolvimento de software e tecnologia em geral <br>
 🔖 [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP <br>
-🔖 [Pizza de dados](https://pizzadedados.com/) -  Ciência de dados e conselhos de carreira <br>
+🔖 [Pizza de dados](https://pizzadedados.com/) - Ciência de dados e conselhos de carreira <br>
 🔖 [PodProgramar](https://podprogramar.com.br/) - Focado em programação, notícias e histórias da área <br>
 🔖 [PodTag](https://podtag.com.br/) - Desenvolvimento de software e tecnologia em geral <br>
 🔖 [QuebraDev](https://quebradev.com.br/) - Quebrada + tecnologia <br>
@@ -847,7 +882,7 @@
 
 ## 📚 Cursos de HTML e CSS
 
-🔖 [Curso em video](https://github.com/gustavoguanabara/html-css):  <br>
+🔖 [Curso em video](https://github.com/gustavoguanabara/html-css): <br>
 🔖 [Curso completo e atual de HTML5 e CSS3 - Módulo 1 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) <br>
 🔖 [Curso completo e atual de HTML5 e CSS3 - Módulo 2 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s) <br>
 🔖 [Curso completo e atual de HTML5 e CSS3 - Módulo 3 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ) <br>
@@ -864,7 +899,7 @@
 🔖 [Curso de CSS3 6](https://www.youtube.com/playlist?list=PLgCTlR71eB4-ZGpajuh01zexg8f9Qd98z) <br>
 🔖 [Curso de CSS3 7](https://www.youtube.com/playlist?list=PLai7Iw-TAFJr5IQ83rIo_iSUiWaiXen5G) <br>
 🔖 [Curso de CSS3 8](https://www.youtube.com/watch?v=ZFQkb26UD1Y) <br>
-🔖 [Curso Aprenda HTML em 1 hora (22 aulas):](https://goo.gl/1kfBCZ)  <br>
+🔖 [Curso Aprenda HTML em 1 hora (22 aulas):](https://goo.gl/1kfBCZ) <br>
 🔖 [Curso completo de CSS3 (22 aulas)](https://goo.gl/ebjzVG) <br>
 🔖 [Curso de CSS3 com Sass e Compass (9 aulas)](https://goo.gl/bAO0hE) <br>
 
@@ -1084,7 +1119,7 @@
 
 ## 📚 Cursos de Flutter
 
-🔖 [Curso de Flutter - Desenvolva um Cadastro Completo 2020](https://www.cod3r.com.br/courses/flutter-desenvolva-um-cadastro-completo)  <br>
+🔖 [Curso de Flutter - Desenvolva um Cadastro Completo 2020](https://www.cod3r.com.br/courses/flutter-desenvolva-um-cadastro-completo) <br>
 🔖 [Curso de Flutter 1](https://www.youtube.com/playlist?list=PLl_hIu4u7P677H9f6zPOHiOz2izkvQq2E) <br>
 🔖 [Curso de Flutter 2](https://www.youtube.com/playlist?list=PL_wKlpKIC9vWubXsj3IRPZ2Rk6QMfsPPg) <br>
 🔖 [Curso de Flutter 3](https://www.youtube.com/playlist?list=PLEXr-WZRgPjwk2v5wYi70WN--pCGvN-9u) <br>
@@ -1136,7 +1171,7 @@
 
 ## 📚 Cursos de Bootstrap
 
-🔖 [Curso de Bootstrap (16 aulas)](https://goo.gl/xFDOxT)  <br>
+🔖 [Curso de Bootstrap (16 aulas)](https://goo.gl/xFDOxT) <br>
 🔖 [Curso de Bootstrap 1](https://www.youtube.com/playlist?list=PLnDvRpP8Bnexu5wvxogy6N49_S5Xk8Cze) <br>
 🔖 [Curso de Bootstrap 2](https://www.youtube.com/playlist?list=PLxNM4ef1Bpxjh7ZRXg6wXgPaACdFqoBhM) <br>
 🔖 [Curso de Bootstrap 3](https://www.youtube.com/playlist?list=PLBbHLUbqqCrTwIrdix6kl84m4OPE0JexR) <br>
